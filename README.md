@@ -3,6 +3,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxa3ZtNnVqeGpidTNibmg1MGd2NnFxbnh1anVsNWs3czYzZHdrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0Mcg0U726QSjVa95AG/giphy.gif" width="100">
     Hello world!, I'm Brandon Reyes
   </h1>
+  <p align="center"><em>"You can't steal something that should be free."</em></p>
 </head>  
 <body>
   <h2>👨🏻‍💻 &nbsp; About Me</h2>
@@ -15,7 +16,7 @@
   ⌛ &nbsp;In the process of expanding my knowledge in web development.<br>
   ✍️ &nbsp;In my free time, I watch computer science videos and improve my portfolio.<br>
   ✉️ &nbsp;Feel free to contact me at brandonreyes00@outlook.com! I’ll do my best to respond quickly.<br>
-  📄 &nbsp;Check out my <a href="https://1drv.ms/w/s!AsBcAYcHxtvf61k5OkF5IaOFjH_d?e=5lWkrD">resume</a> to learn more about me.</p>
+  📄 &nbsp;Check out my <a href="https://1drv.ms/b/s!AsBcAYcHxtvf61zGCU5B8RmdkDu2">resume</a> to learn more about me.</p>
 
   <h2>🛠 &nbsp; Tech Stack</h2>
 
