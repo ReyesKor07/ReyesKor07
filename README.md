@@ -38,26 +38,17 @@
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-<h2>⚙️ &nbsp;GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/ReyesKor07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReyesKor07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ReyesKor07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=compact&theme=dark"/>
-  </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesKor07&theme=dark&hide_border=true"/>
-</p>
-
+  <h2>⚙️ &nbsp;GitHub Analytics</h2>
+  
+  <p align="center">
+    <a href="https://github.com/ReyesKor07">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReyesKor07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    </a>
+    <a href="https://github.com/ReyesKor07">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=compact&theme=dark&langs_count=8&cache_seconds=1800"/>
+    </a>
+  </p>
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesKor07&theme=dark&hide_border=true&cache_seconds=1800"/>
+  </p>
 </body>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=compact&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ReyesKor07&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&langs_count=8)
