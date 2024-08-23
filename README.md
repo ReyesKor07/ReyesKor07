@@ -41,10 +41,10 @@
 
 <p align="center">
   <a href="https://github.com/ReyesKor07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReyesKor07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/ReyesKor07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReyesKor07&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 <p align="center">
@@ -52,7 +52,5 @@
 </p>
 
 </body>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ReyesKor07&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&langs_count=8)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=ReyesKor07&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&langs_count=8) -->
