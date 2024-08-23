@@ -54,9 +54,10 @@
 
 </body>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyeskor07&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=compact&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=ReyesKor07&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&langs_count=8) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=ReyesKor07&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesKor07&langs_count=8)
