@@ -1,9 +1,10 @@
 <head>
   <h1 align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxa3ZtNnVqeGpidTNibmg1MGd2NnFxbnh1anVsNWs3czYzZHdrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0Mcg0U726QSjVa95AG/giphy.gif" width="100">
-    Hello world!, I'm Brandon Reyes
+    Welcome to Brandon Reyes' GitHub
   </h1>
-  <p align="center"><em>"You can't steal something that should be free."</em></p>
+  <img alt="My header image" src="github-header-image.png" align="center"/>
+  <!-- <p align="center"><em>"You can't steal something that should be free."</em></p> -->
 </head>  
 <body>
   <h2>👨🏻‍💻 &nbsp; About Me</h2>
