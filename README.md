@@ -16,7 +16,7 @@
   ⌛ &nbsp;In the process of expanding my knowledge in web development.<br>
   ✍️ &nbsp;In my free time, I watch computer science videos and improve my portfolio.<br>
   ✉️ &nbsp;Feel free to contact me at brandonreyes00@outlook.com! I’ll do my best to respond quickly.<br>
-  📄 &nbsp;Check out my <a href="https://1drv.ms/b/s!AsBcAYcHxtvf61zGCU5B8RmdkDu2">resume</a> to learn more about me.</p>
+  📄 &nbsp;Check out my <a href="https://1drv.ms/b/s!AsBcAYcHxtvf7CCDZ1RNGNktLyTb?e=5Kd6Ww">resume</a> to learn more about me.</p>
 
   <h2>🛠 &nbsp; Tech Stack</h2>
 
